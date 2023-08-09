@@ -18,7 +18,12 @@ def get_shot(url: str):
 
 threads = []
 links = [
-    
+    "https://t.me/cvision/3013",
+    "https://t.me/whitesquare18/383",
+    "https://t.me/c/1466419661/3695",
+    "https://t.me/saipa_goodarzi/2022",
+    "https://t.me/SAJAD_JOEY/2240",
+    "https://t.me/azarijahromi/783"
 ]
 
 
